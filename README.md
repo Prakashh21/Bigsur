@@ -84,19 +84,45 @@ After installing the extension in the bottom right you'll see an option **Go Liv
 ```
 
 
-- [Features](#features)
 - [Getting Started](#getting-started)
 - [Project Structure](#project-structure)
-  - [Basic](#usage-basic)
-  - [React](#usage-react)
-  - [Vue](#usage-vue)
-- [Options](#options)
-- [Events](#events)
-- [Methods](#methods)
-- [Types](#types)
+- [Features](#features)
+- [Apps](#applications)
+  - [Linkedin](#linkedin)
+  - [Books](#books)
+  - [Calculator](#calculator)
+  - [Camera](#books)
+  - [CupHead](#books)
+  - [Excel](#books)
+  - [Gallery](#books)
+  - [Jira](#books)
+  - [Music](#music)
+  - [Netflix](#netflix)
+  - [Pokemon Card](#pokemon-card)
+  - [Setting](#setting)
+  - [Whiteboard](#whiteboard)
 - [Themes](#themes)
+- [Potential Improvements](#potential-improvements)
 - [Bug Reporting](#bug)
 - [Feature Request](#feature-request)
-- [Release Notes](#release-notes)
 - [License](#license)
 
+
+
+## ⭐ Features
+
+- NO Frameworks used.
+- Can Minimize and Maximize Window.
+- A Scalable Platforms for Creating and Adding apps in the future.
+
+## 🐛 Bug Reporting
+
+I am continiously developing this , so feel free to [report any bug](https://github.com/Prakashh21/Bigsur-Clone/issues/new).
+
+## ⭐ Feature Request
+
+I would hugely appreciate your feedbacks and feature proposals on the project , feel free to [open an issue](https://github.com/Prakashh21/Bigsur-Clone/issues/new) for the same.
+
+## 📜 License
+
+This is an Open-Source Project, Licensed under [MIT License](https://github.com/Prakashh21/Bigsur-Clone/blob/master/License.md). 
