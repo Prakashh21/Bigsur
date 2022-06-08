@@ -37,3 +37,66 @@ After installing the extension in the bottom right you'll see an option **Go Liv
 
 
 <!-- ![ezgif-2-73dc83a7d8](https://user-images.githubusercontent.com/90280586/172615747-5c58559a-68be-401d-b0c5-2f7a9e2f1e76.gif) -->
+
+## Project Structure
+```
+.
+├── appFiles
+│   ├── bin
+│   ├── books
+│   │   ├── image
+│   │   └── pdf
+│   ├── calculator
+│   ├── camera
+│   ├── cupHead
+│   │   └── cupHeadImage
+│   ├── excel
+│   ├── gallery
+│   │   └── galleryCssImage
+│   ├── jira
+│   ├── linkedIn
+│   │   └── image
+│   │       └── Music - Apple (IN)_files
+│   ├── music
+│   │   ├── audio
+│   │   └── image
+│   │       └── speaker_files
+│   ├── netflix
+│   │   └── image
+│   ├── pokemonCard
+│   │   └── pokemonCardImage
+│   │       └── Pokémon Café Mix_files
+│   ├── setting
+│   │   └── settingimage
+│   └── whiteBoard
+│       └── cursor
+├── cursor
+├── font
+│   ├── appleFont
+│   └── cascadiaCode
+├── images
+│   ├── cameraIcon
+│   └── jiraIIcon
+└── wallpaper
+
+37 directories, 288 files
+
+```
+
+
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Project Structure](#project-structure)
+  - [Basic](#usage-basic)
+  - [React](#usage-react)
+  - [Vue](#usage-vue)
+- [Options](#options)
+- [Events](#events)
+- [Methods](#methods)
+- [Types](#types)
+- [Themes](#themes)
+- [Bug Reporting](#bug)
+- [Feature Request](#feature-request)
+- [Release Notes](#release-notes)
+- [License](#license)
+
